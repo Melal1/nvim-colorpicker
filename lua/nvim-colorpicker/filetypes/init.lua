@@ -205,6 +205,7 @@ local BUILTIN_ADAPTERS = {
   'nvim-colorpicker.filetypes.adapters.rust',
   'nvim-colorpicker.filetypes.adapters.cpp',
   'nvim-colorpicker.filetypes.adapters.go',
+  'nvim-colorpicker.filetypes.adapters.qml',
 }
 
 -- Auto-register all built-in adapters on module load
